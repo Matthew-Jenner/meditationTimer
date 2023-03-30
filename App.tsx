@@ -5,7 +5,7 @@ import { TimerToggleButton } from './Components/TimerToggleButton';
 import { AnimatedCircularProgress } from 'react-native-circular-progress';
 import { Timer } from './Components/Timer';
 
-const FOCUS_TIME_MINUTES = 20 * 60 * 1000;
+const FOCUS_TIME_MINUTES = 5 * 60 * 1000;
 const COMPLETE_TIME_MINUTES = 0 * 60 * 1000;
 
 export default function App() {

@@ -1,6 +1,6 @@
 import React from "react";
 import {TouchableOpacity, Text, StyleSheet} from 'react-native'
-import Icon from 'react-native-vector-icons/Ionicons';
+import Icon from 'react-native-vector-icons/Ionicons'
 
 
 type Props = {
